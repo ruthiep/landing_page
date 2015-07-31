@@ -1,0 +1,23 @@
+body {
+  background-image: url("images/background.jpg");
+  background-repeat: no-repeat;
+  background-color: black;
+  background-size: 100%, 100%;
+/*
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+}
+
+
+/*bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 100%;
+  min-height: 100%;
+}*/
